@@ -1,0 +1,14 @@
+.coupon{
+    /* Rectangle 1822 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 357px;
+height: 352px;
+left: calc(50% - 357px/2 - 396.5px);
+top: 1488px;
+
+background: linear-gradient(180deg, rgba(5, 8, 9, 0.7) 45.88%, rgba(41, 32, 35, 0.7) 100%);
+
+}

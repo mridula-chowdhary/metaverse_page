@@ -1,0 +1,22 @@
+.Gen{
+    /* We’re creating the next generation of digital assets: tradable tickets that grant exclusive access to IRL events, customizable virtual characters that can be played in multiple games, digital investments in creators to earn a portion of their future revenue, and much much more! We’re reimagining what it means to be a part of a community. */
+
+position: absolute;
+width: 958px;
+height: 82px;
+left: calc(50% - 958px/2);
+top: 1272px;
+
+font-family: 'Plus Jakarta Display';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 170.9%;
+/* or 31px */
+text-align: center;
+background-color: black;
+color: rgba(255, 255, 255, 0.9);
+
+opacity: 0.8;
+
+}

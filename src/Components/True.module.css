@@ -1,0 +1,19 @@
+.true{
+
+position: absolute;
+width: 447px;
+height: 136px;
+left: calc(50% - 447px/2 - 345.5px);
+top: 2190.57px;
+
+font-family: 'Monument Extended';
+font-style: normal;
+font-weight: 800;
+font-size: 56.53px;
+line-height: 68px;
+text-transform: uppercase;
+background-color: black;
+color: #FFFFFF;
+
+
+}

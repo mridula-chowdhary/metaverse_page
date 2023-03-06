@@ -4,14 +4,29 @@ import Navbar from './Intro';
 import Start from './Start';
 
 import classes from './Landing.module.css';
+import New from './New';
+import Generation from './Generation';
+import Coupon from './Coupon';
+import Event from './Event';
+import Digital from './Digital';
+import True from './True';
+import Ttext from './Ttext';
 
 const Landing = props => {
 return (
 <Fragment>
     <div className={classes.landing}>
-<Navbar/>
+    <Navbar/>
      <Intro/>
      <Start/>
+     <Generation/>
+     <New/>
+   <Coupon/>
+   <Event/>
+   <Digital/>
+   <True/>
+   <Ttext/>
+    
      </div>
 </Fragment>
 );
