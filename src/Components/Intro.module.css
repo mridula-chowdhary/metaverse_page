@@ -1,0 +1,40 @@
+/* .intro{
+    font-family:'Monument Extended';
+    font-style:ultrabold;
+    font-size: 78px;
+    line-height: 103px;
+    align-items: center;
+    vertical-align: top;
+    letter-spacing: 6%;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 38.14px;
+} */
+
+.intro{
+    /* Your Introduction to the Creator Metaverse */
+
+position: absolute;
+width: 1141px;
+height: 309px;
+left: 149px;
+top: 249px;
+
+font-family: 'Monument Extended';
+font-style: normal;
+font-weight: 800;
+font-size: 78px;
+line-height: 132.5%;
+/* or 103px */
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
+/* background: linear-gradient(144.6deg, #FFF9D7 4.73%, #FFFFFF 79.23%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent; */
+
+
+}

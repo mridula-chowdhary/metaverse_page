@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: black;
+    padding-top: 23px;
+    height:60px
+}
+ul{
+   
+    display: flex;
+    padding-left:149px;
+    padding-bottom: 30px;
+    /* padding-top: 30px; */
+}
+
+li{
+ color:#FFFFFF;
+ list-style: none;
+font-family: 'Plus Jakarta Display';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+margin-right: 50px;
+line-height: 23px;
+text-transform: capitalize;
+}
+.logo img{
+   height: 34px;
+   width:36px;
+   
+}
+.logo{
+   
+    /* display: inline-flex; */
+    flex-grow: 0.7;
+    
+
+}
+.logo p{
+    color:#FFFFFF;
+    display: inline-flex;
+    margin-left: 20px;
+    /* padding-bottom: 300px; */
+    
+}
+.login button{
+    width:139px;
+    height:52px;
+    top: 28px;
+    left: 1151px;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #2CD8D5,#C5C1FF, #FFBAC3
+    );
+    
+}
+.login{
+  padding-right: 51px;
+ font-family: Plus Jakarta;
+ font-style: bold;
+ font-size: 18px;
+ line-height: 100%;
+ align-items: center;
+ vertical-align:top;
+}
