@@ -1,0 +1,21 @@
+.claim{
+    /* Claim Item Utilities */
+
+position: absolute;
+width: 1134px;
+height: 230px;
+left: calc(50% - 1134px/2);
+top: 3146px;
+
+font-family: 'Monument Extended';
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 115px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+background-color: black;
+
+}

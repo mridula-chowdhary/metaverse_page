@@ -12,6 +12,7 @@ import Digital from './Digital';
 import True from './True';
 import Ttext from './Ttext';
 import File from './File';
+import Claim from './Claim';
 
 const Landing = props => {
 return (
@@ -28,6 +29,7 @@ return (
    <True/>
    <Ttext/>
     <File/>
+    <Claim/>
      </div>
 </Fragment>
 );
