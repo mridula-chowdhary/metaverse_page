@@ -5,7 +5,8 @@ const Event = props => {
 return (
 <Fragment>
  <div className={classes.event}>
-    
+    <p>Event Ticket</p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mus tellus, feugiat quam libero vitae.
  </div>
 </Fragment>
 );

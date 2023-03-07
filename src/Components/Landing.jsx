@@ -11,6 +11,7 @@ import Event from './Event';
 import Digital from './Digital';
 import True from './True';
 import Ttext from './Ttext';
+import File from './File';
 
 const Landing = props => {
 return (
@@ -21,12 +22,12 @@ return (
      <Start/>
      <Generation/>
      <New/>
-   <Coupon/>
+    <Coupon/>
    <Event/>
    <Digital/>
    <True/>
    <Ttext/>
-    
+    <File/>
      </div>
 </Fragment>
 );

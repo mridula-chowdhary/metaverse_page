@@ -29,12 +29,18 @@ line-height: 132.5%;
 text-align: center;
 letter-spacing: 0.06em;
 text-transform: uppercase;
-/* background-color: black; */
-/* background: linear-gradient(144.6deg, #FFF9D7 4.73%, #FFFFFF 79.23%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-fill-color: transparent; */
+color: white;
+/* background-image: linear-gradient(to bottom right, red, yellow);  */
+background-color: black;
+ 
 
 
+}
+.intro p{
+  /* color: linear-gradient(144.6deg, #FFF9D7 4.73%, #FFFFFF 79.23%);   */
+  background: linear-gradient(144.6deg, #FFF9D7 4.73%, #FFFFFF 79.23%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text; 
+  text-fill-color: transparent; 
 }

@@ -5,9 +5,10 @@ position: absolute;
 width: 199px;
 height: 57px;
 left: 619px;
-top: 601px;
-color: black;
-background: #FFFFFF;
+top: 350px;
+color:white;
+/* background-color: black; */
+/* background: #FFFFFF; */
 border-radius: 5px;
 
 }
@@ -18,8 +19,8 @@ button{
 width: 88px;
 height: 23px;
 left: 674px;
-top: 618px;
-
+top: 0px;
+/* top: 618px; */
 font-family: 'Plus Jakarta Display';
 font-style: normal;
 font-weight: 700;
@@ -27,8 +28,6 @@ font-size: 18px;
 line-height: 23px;
 text-align: center;
 text-transform: capitalize;
-
-color: #000000;
-
+color:#000000
 
 }

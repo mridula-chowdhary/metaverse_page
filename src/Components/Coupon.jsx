@@ -6,8 +6,8 @@ const Coupon = props => {
 return (
 <Fragment>
  <div className={classes.coupon}>
-
- 
+<p>March Coupon</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mus tellus, feugiat quam libero vitae.
 </div>
 </Fragment>
 );

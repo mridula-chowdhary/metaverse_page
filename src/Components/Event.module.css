@@ -1,12 +1,43 @@
 /* Rectangle 1823 */
 
 .event{box-sizing: border-box;
+    border: 2px solid red;
+    border-radius:40% 0% 40% 0%;
+   position: absolute;
+ width: 357px;
+ height: 352px;
 
-position: absolute;
-width: 357px;
-height: 352px;
 left: calc(50% - 357px/2 + 0.5px);
 top: 1488px;
 
 background: linear-gradient(180deg, rgba(5, 8, 9, 0.7) 45.88%, rgba(16, 17, 41, 0.7) 100%);
+text-align: center;
+color: #FFFFFF;
+font-family: 'Plus Jakarta Display';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
 }
+
+.event p{
+    margin-top: 130px;
+font-family: 'Monument Extended';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+color: rgba(255, 255, 255, 0.9);
+}
+/* color: #FFFFFF; */
+
+
+
+/* box-sizing: border-box;
+border: 2px solid red;
+position: absolute;
+width: 30%;
+height: 40%;
+top: 27%;
+left: 3%;
+border-radius: 40% 40% 3% 40%;
+background: linear-gradient(180deg, rgba(5, 8, 9, 0.7) 45.88%, rgba(41, 32, 35, 0.7) 100%);
+  text-align: center; */

@@ -6,14 +6,15 @@
     background-color: black;
     padding-top: 23px;
     height:60px
+   
 }
-ul{
+/* ul{
    
     display: flex;
     padding-left:149px;
     padding-bottom: 30px;
-    /* padding-top: 30px; */
-}
+    /* padding-top: 30px;
+} */
 
 li{
  color:#FFFFFF;
@@ -27,21 +28,45 @@ line-height: 23px;
 text-transform: capitalize;
 }
 .logo img{
-   height: 34px;
-   width:36px;
-   
-}
-.logo{
-   
-    /* display: inline-flex; */
-    flex-grow: 0.7;
-    
+   /* nya-logo 1 */
 
+position: absolute;
+width: 36px;
+height: 34px;
+left: calc(50% - 36px/2 - 80px);
+top: 37px;
+
+/* background: url(nya-logo.png); */
+
+   
 }
+
 .logo p{
-    color:#FFFFFF;
+    /* Nya Labs */
+
+position: absolute;
+width: 148px;
+height: 24px;
+left: calc(50% - 148px/2 + 23px);
+top: 42px;
+
+font-family: 'Monument Extended';
+font-style: normal;
+font-weight: 800;
+font-size: 22.365px;
+line-height: 24px;
+text-transform: uppercase;
+
+background: linear-gradient(144.6deg, #FFF9D7 4.73%, #FFFFFF 79.23%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+    /* color:#FFFFFF;
     display: inline-flex;
-    margin-left: 20px;
+    margin-left: 20px; */
     /* padding-bottom: 300px; */
     
 }
@@ -63,4 +88,64 @@ text-transform: capitalize;
  line-height: 100%;
  align-items: center;
  vertical-align:top;
+}
+.market{
+    /* Marketplace */
+
+position: absolute;
+width: 101px;
+height: 23px;
+left: calc(50% - 101px/2 - 520.5px);
+top: 42px;
+
+font-family: 'Plus Jakarta Display';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 23px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+}
+.faq{
+    /* FAQ */
+
+position: absolute;
+width: 38px;
+height: 23px;
+left: calc(50% - 38px/2 - 299px);
+top: 42px;
+
+font-family: 'Plus Jakarta Display';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 23px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+}
+.about{
+    /* About */
+
+position: absolute;
+width: 52px;
+height: 23px;
+left: calc(50% - 52px/2 - 394px);
+top: 42px;
+
+font-family: 'Plus Jakarta Display';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
 }

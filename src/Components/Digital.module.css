@@ -1,6 +1,6 @@
 .digital{
  /* Rectangle 1824 */
-
+border: solid red;
 box-sizing: border-box;
 position: absolute;
 width: 357px;
@@ -9,7 +9,23 @@ height: 352px;
 left:970px;
 top: 1488px;
 background: linear-gradient(180deg, rgba(5, 8, 9, 0.7) 45.88%, rgba(11, 34, 35, 0.7) 100%);
-transform: matrix(-1, 0, 0, 1, 0, 0);
+/* transform: matrix(-1, 0, 0, 1, 0, 0); */
+border-radius: 0% 50% 50% 0%;
+text-align: center;
+color: #FFFFFF;
+font-family: 'Plus Jakarta Display';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
 
  
+}
+
+.digital p{
+    margin-top: 130px;
+font-family: 'Monument Extended';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 140.5%;
 }
